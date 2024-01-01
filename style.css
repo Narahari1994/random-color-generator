@@ -1,0 +1,19 @@
+.bg-container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  gap: 12px;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  font-weight: 600;
+  font-size: 20px;
+  border: 2px solid gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
